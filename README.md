@@ -1,16 +1,18 @@
-## Hi there 👋
+Hello! I'm Angelica, a CS undergrad who really likes all things Data Science, ML, and currently, working at a lab on Computational Plasma Physics.
 
-<!--
-**angebanh/angebanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Undergraduate Research
+### Computational Plasma Physics 
+- **Focus:** Analyzing the interaction between NTMs, plasma turbulence, and magnetic islands.
+- **Tools:** Python, Multivariate Calculus, Electrodynamics.
 
-Here are some ideas to get you started:
+###  Behavioral Data Modeling (Lead Researcher)
+- **Role:** Led a team of 5 researchers to analyze large-scale behavioral datasets.
+- **Tools:** R (GEE, LME, GLM), Python, Git/GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Wildfire Prediction Pipeline
+- **Focus:** Built a ML pipeline using **XGBoost** to predict U.S. wildfire occurrences. & Ingested large-scale environmental data via **NOAA APIs**.
+
+## Skills
+- **Languages:** Python, R, LaTeX
+- **Data Science:** Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, Seaborn
+- **Frameworks:** Git/GitHub, RStudio
