@@ -1,4 +1,4 @@
-Hello! I'm Angelica, a CS undergrad who really likes all things Data Science, ML, and currently, working at a lab on Computational Plasma Physics.
+Hello! I'm Angelica, a CS undergrad who really likes all things Data Science, ML, and currently: working at a lab on Computational Plasma Physics & building a web crawler and search engine from scratch.
 
 ## Undergraduate Research
 ### Computational Plasma Physics 
